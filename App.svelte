@@ -18,6 +18,7 @@
 <h1>Program E: Sun 5pm</h1>
 <h4>Teacher: Yasmin Amani</h4>
 <img {src} alt="dance">
+<h1>hi</h1>
 <table class="table table-bordered table-striped mt-3">
     <thead>
         <tr>
